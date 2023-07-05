@@ -10,4 +10,19 @@ Explorar os dados de empréstimos dos acervos do sistema de bibliotecas da UFRN.
 
 ## Métodos Pandas utilizados:
 
+https://pandas.pydata.org/docs/reference/api/pandas.concat.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.read_parquet.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.isna.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.isnull.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html
 
