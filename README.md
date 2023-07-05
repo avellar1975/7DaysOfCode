@@ -20,6 +20,7 @@ O objetivo é explorar os dados de empréstimos dos acervos do sistema de biblio
 
 1. Importação de dados
 2. Limpeza dos dados
+3. Análise exploratória de dados e DateTime
 
 ## Métodos Pandas utilizados:
 
