@@ -1,6 +1,14 @@
 <img src='img/seven.png'>
 <h1 align="center">7 Days Of Code</h1>
 
+![GitHub](https://img.shields.io/github/license/avellar1975/7DaysOfCode)
+![GitHub top language](https://img.shields.io/github/languages/top/avellar1975/7DaysOfCode)
+![GitHub repo size](https://img.shields.io/github/repo-size/avellar1975/7DaysOfCode?color=orange)
+
+
+
+
+
 Projeto desenvolvido durante o desafio 7 Days of Coding da Alura.
 #7DaysOfCode
 
