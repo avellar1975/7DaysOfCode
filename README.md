@@ -1,3 +1,4 @@
+<img src='img/seven.png'>
 <h1 align="center">7 Days Of Code</h1>
 
 Projeto desenvolvido durante o desafio 7 Days of Coding da Alura.
