@@ -33,6 +33,10 @@ O gráfico possui uma estrutura formada por uma caixa retangular, uma linha cort
 
 <img src="https://fm2s.com.br/images/gallery/393f977a0f285855da3c45a772b6189f_1677069177.webp">
 
+> “O maior valor de um gráfico é quando ele nos força a perceber o que nós jamais esperávamos ver.”
+
+> *John Tukey · Estatístico*
+
 
 ## Métodos Pandas utilizados:
 
