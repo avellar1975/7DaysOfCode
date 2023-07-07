@@ -21,6 +21,7 @@ O objetivo é explorar os dados de empréstimos dos acervos do sistema de biblio
 1. Importação de dados
 2. Limpeza dos dados
 3. Análise exploratória de dados e DateTime
+4. Análise exploratória de dados e Variáveis categóricas
 
 ## Métodos Pandas utilizados:
 
@@ -36,7 +37,15 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html
 
+https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
+
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.Series.unique.html
 
