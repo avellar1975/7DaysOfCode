@@ -31,7 +31,7 @@ Este gráfico foi criado pelo matemático John Tukey na década de 70 no seu liv
 
 O gráfico possui uma estrutura formada por uma caixa retangular, uma linha cortando essa caixa e as hastes (ou bigodes) ligadas a caixa.
 
-<img src="img/boxplot.png">
+<img src="https://fm2s.com.br/images/gallery/393f977a0f285855da3c45a772b6189f_1677069177.webp">
 
 
 ## Métodos Pandas utilizados:
