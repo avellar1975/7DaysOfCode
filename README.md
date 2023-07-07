@@ -23,6 +23,17 @@ O objetivo é explorar os dados de empréstimos dos acervos do sistema de biblio
 3. Análise exploratória de dados e DateTime
 4. Análise exploratória de dados e Variáveis categóricas
 
+## Boxplot
+
+O Boxplot é uma das visualizações mais poderosas que existe, pois ele permite que você visualize medidas estatísticas como a mediana, os quartis, os valores mínimos e máximos e os valores atípicos outliers.
+
+Este gráfico foi criado pelo matemático John Tukey na década de 70 no seu livro “Exploratory Data Analysis”. 
+
+O gráfico possui uma estrutura formada por uma caixa retangular, uma linha cortando essa caixa e as hastes (ou bigodes) ligadas a caixa.
+
+<img src="img/boxplot.png">
+
+
 ## Métodos Pandas utilizados:
 
 https://pandas.pydata.org/docs/reference/api/pandas.concat.html
